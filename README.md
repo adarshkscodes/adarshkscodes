@@ -21,7 +21,7 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 
 **Google Cybersecurity Certified** · **Springer-published researcher**
 
-**🎯 Open to:** SOC Analyst · Security Analyst · Junior VAPT / Penetration Tester roles
+**🎯 Open to:** SOC Analyst · Security Analyst · VAPT / Penetration Tester roles
 
 
 ---
