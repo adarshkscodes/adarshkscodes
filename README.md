@@ -40,7 +40,7 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 |---|---|
 | [**wazuh-soc-lab**](https://github.com/adarshkscodes/wazuh-soc-lab) | A 3-machine SOC lab: Windows 11 endpoint with Sysmon, Ubuntu Wazuh manager and Kali analyst host. Investigated authentication failures, File Integrity Monitoring alerts and process-creation events, mapped findings to **MITRE ATT&CK**, and wrote 2 formal incident reports. |
 | [**web-application-vapt**](https://github.com/adarshkscodes/web-application-vapt) | A full VAPT workflow against OWASP Juice Shop (an intentionally vulnerable training app): recon, enumeration, exploitation, impact analysis and reporting. **6 validated findings**, including a **Critical** SQL injection authentication bypass and a **High** IDOR, plus XSS, sensitive file exposure, stack-trace disclosure and permissive CORS. Reported with OWASP mapping, CVSS scoring and remediation guidance. |
-| [**AI Smart Contract Analyzer**](https://www.linkedin.com/feed/update/urn:li:activity:7442775053513011200/) | Python and LLM-based analyzer that uses prompt-engineering pipelines to detect reentrancy, integer overflow and access control vulnerabilities and produce structured audit reports. |
+| [**sentinel-security-console**](https://github.com/adarshkscodes/sentinel-security-console) | A web-based internal dApp prototype (HTML, CSS, JavaScript) modelled on a **Blockchain Security Engineer** workflow. Simulates smart-contract **risk triage**, **severity-based findings review**, **wallet-connected reviewer actions**, a **security attestation** flow and an **emergency pause drill** for incident-response readiness, with multiple security review modes in a clean dashboard interface. Deployed live on GitHub Pages. |
 
 ## ⛓️ Blockchain Projects
 
@@ -59,8 +59,11 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 **Offensive Security**<br>
 ![VAPT](https://img.shields.io/badge/VAPT-B03A2E?style=flat-square) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-B03A2E?style=flat-square) ![SQLi](https://img.shields.io/badge/SQLi-B03A2E?style=flat-square) ![XSS](https://img.shields.io/badge/XSS-B03A2E?style=flat-square) ![IDOR](https://img.shields.io/badge/IDOR-B03A2E?style=flat-square) ![CSRF](https://img.shields.io/badge/CSRF-B03A2E?style=flat-square) ![CVSS](https://img.shields.io/badge/CVSS-B03A2E?style=flat-square) ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-B03A2E?style=flat-square) ![Exploit Analysis](https://img.shields.io/badge/Exploit_Analysis-B03A2E?style=flat-square)
 
-**Security Tools**<br>
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-1F2D3D?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-1F2D3D?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-1F2D3D?style=flat-square) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1F2D3D?style=flat-square)
+**Security Tools & Lab Environments**<br>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1F2D3D?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-1F2D3D?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-1F2D3D?style=flat-square) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1F2D3D?style=flat-square) ![Windows 11](https://img.shields.io/badge/Windows_11-1F2D3D?style=flat-square) ![Ubuntu](https://img.shields.io/badge/Ubuntu-1F2D3D?style=flat-square) ![OWASP Juice Shop](https://img.shields.io/badge/OWASP_Juice_Shop-1F2D3D?style=flat-square)
+
+**Practice Platforms**<br>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-2E7D5B?style=flat-square) ![PortSwigger Web Security Academy](https://img.shields.io/badge/PortSwigger_Web_Security_Academy-2E7D5B?style=flat-square)
 
 **Blockchain Security**<br>
 ![Smart Contract Auditing](https://img.shields.io/badge/Smart_Contract_Auditing-6A4BB5?style=flat-square) ![EVM Security](https://img.shields.io/badge/EVM_Security-6A4BB5?style=flat-square) ![DeFi Risk Analysis](https://img.shields.io/badge/DeFi_Risk_Analysis-6A4BB5?style=flat-square) ![Slither](https://img.shields.io/badge/Slither-6A4BB5?style=flat-square) ![Mythril](https://img.shields.io/badge/Mythril-6A4BB5?style=flat-square)
