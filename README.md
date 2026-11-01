@@ -1,7 +1,7 @@
 <h1 align="center">Adarsh Kumar</h1>
 
 <p align="center">
-  <b>Cybersecurity Analyst &nbsp;|&nbsp; SOC &nbsp;|&nbsp; VAPT &nbsp;|&nbsp; Blockchain Security</b><br>
+  <b>VAPT &amp; AppSec Engineer &nbsp;|&nbsp; Penetration Testing &nbsp;|&nbsp; SOC (Wazuh, SIEM) &nbsp;|&nbsp; Smart Contract Security</b><br>
   Greater Noida, India
 </p>
 
@@ -15,14 +15,23 @@
 
 ## 👋 About
 
-I'm a security professional with hands-on experience in **smart contract security, application security, vulnerability assessment and threat analysis**, now building out my **SOC and VAPT** skills through documented, reproducible lab work.
+I'm a **VAPT & AppSec engineer** with 3+ years across **application security, smart contract security, vulnerability assessment and secure code review**. I find what automated scanners miss, prove the impact, and write findings developers can actually fix. The labs below document my web application pentesting and SOC detection work end to end.
 
 I started as a **blockchain developer**, building smart contracts and full-stack dApps, and moved into security reviews of the systems I was building. That background gives me an attacker's view of authentication, access control and trust boundaries. I'm applying that same mindset to detection engineering, incident investigation and web application testing.
 
-**Google Cybersecurity Certified** · **Springer-published researcher**
+**Google Cybersecurity Certified** · **Published researcher** (ICDSCI-2022)
 
-**🎯 Open to:** SOC Analyst · Security Analyst · VAPT / Penetration Tester roles
+**🎯 Open to:** VAPT Engineer · Penetration Tester · AppSec Engineer · SOC Analyst roles
 
+
+---
+
+## 💼 Experience
+
+- **Information Security Engineer**, Jpan Tubular Limited (Oct 2024 – Oct 2026): secured a blockchain-based traceability and authentication platform, finding and fixing 20+ vulnerabilities before deployment and security-gating 30+ releases.
+- **Blockchain Security Engineer**, ALBA JOBS (Oct 2023 – Sep 2024): end-to-end VAPT across 15+ smart contract and backend codebases, mapped to OWASP Top 10; reduced exploitable attack surface by 40%.
+- **Blockchain Developer**, Ajath Infotech (Jan 2023 – Sep 2023): delivered 55+ smart contracts and backend features.
+- **Blockchain Security Analyst (Intern)**, Bitsolabs (Jun 2022 – Nov 2022): vulnerability assessments and secure code review of dApps and backend APIs.
 
 ---
 
@@ -30,7 +39,7 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 
 | 🔍 Detect & Investigate | 💥 Test & Break | 🔐 Secure by Design |
 |---|---|---|
-| SIEM monitoring (Wazuh, Splunk), alert triage, log analysis and incident reports mapped to MITRE ATT&CK | Web application VAPT, OWASP Top 10, Burp Suite and CVSS-rated reporting | Smart contract audits, threat modeling and secure code review |
+| SIEM monitoring (Wazuh, Splunk), alert triage, log analysis and incident reports mapped to MITRE ATT&CK | Web application VAPT, OWASP Top 10, Burp Suite and severity-rated reporting with remediation | Smart contract audits, threat modeling and secure code review |
 
 ---
 
@@ -38,8 +47,8 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 
 | Project | What it demonstrates |
 |---|---|
+| [**web-application-vapt**](https://github.com/adarshkscodes/web-application-vapt) | A full VAPT workflow against OWASP Juice Shop (an intentionally vulnerable training app): recon, enumeration, exploitation, impact analysis and reporting. **6 validated findings**, including a **Critical** SQL injection authentication bypass and a **High** IDOR, plus XSS, sensitive file exposure, stack-trace disclosure and permissive CORS. Reported with OWASP mapping, severity ratings and remediation guidance. |
 | [**wazuh-soc-lab**](https://github.com/adarshkscodes/wazuh-soc-lab) | A 3-machine SOC lab: Windows 11 endpoint with Sysmon, Ubuntu Wazuh manager and Kali analyst host. Investigated authentication failures, File Integrity Monitoring alerts and process-creation events, mapped findings to **MITRE ATT&CK**, and wrote 2 formal incident reports. |
-| [**web-application-vapt**](https://github.com/adarshkscodes/web-application-vapt) | A full VAPT workflow against OWASP Juice Shop (an intentionally vulnerable training app): recon, enumeration, exploitation, impact analysis and reporting. **6 validated findings**, including a **Critical** SQL injection authentication bypass and a **High** IDOR, plus XSS, sensitive file exposure, stack-trace disclosure and permissive CORS. Reported with OWASP mapping, CVSS scoring and remediation guidance. |
 | [**sentinel-security-console**](https://github.com/adarshkscodes/sentinel-security-console) | A web-based internal dApp prototype (HTML, CSS, JavaScript) modelled on a **Blockchain Security Engineer** workflow. Simulates smart-contract **risk triage**, **severity-based findings review**, **wallet-connected reviewer actions**, a **security attestation** flow and an **emergency pause drill** for incident-response readiness, with multiple security review modes in a clean dashboard interface. Deployed live on GitHub Pages. |
 
 ## ⛓️ Blockchain Projects
@@ -78,7 +87,7 @@ I started as a **blockchain developer**, building smart contracts and full-stack
 - **Google Cybersecurity Professional Certificate**, Google (Coursera) · [Verify](https://www.coursera.org/account/accomplishments/professional-cert/NKZWND14BSLS)
 - **Blockchain Specialization**, University at Buffalo (Coursera) · [Verify](https://www.coursera.org/account/accomplishments/specialization/certificate/QY0WG8FU4FRL)
 - **Prompt Engineering Specialization**, Vanderbilt University (Coursera) · [Verify](https://www.coursera.org/account/accomplishments/specialization/HAZ0UA9DMXCA)
-- **Publication:** *Identification of Counterfeit Products Using Blockchain*, Springer (Scopus-indexed conference) · [Verify](https://cert.certifidoc.com/certificate/20b3a7d6-1d76-4cc4-9d51-b4b451335ae4)
+- **Publication:** *Identification of Counterfeit Products Using Blockchain*, ICDSCI-2022, Chandigarh University · [Verify](https://cert.certifidoc.com/certificate/20b3a7d6-1d76-4cc4-9d51-b4b451335ae4)
 
 ## 📚 Currently
 
