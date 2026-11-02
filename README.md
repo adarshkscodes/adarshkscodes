@@ -1,7 +1,8 @@
 <h1 align="center">Adarsh Kumar</h1>
 
 <p align="center">
-<b>Blockchain Developer → Blockchain Security Engineer &nbsp;|&nbsp; Smart Contract Auditor &nbsp;|&nbsp; Moving into VAPT, AppSec &amp; SOC</b><br>
+<b>VAPT · Pentester · AppSec &amp; Blockchain Security Engineer</b><br>
+Critical IDOR, access-control &amp; reentrancy bugs caught pre-production &nbsp;|&nbsp; Secure Code Review · Burp Suite · OWASP<br>
 Greater Noida, India
 </p>
 
@@ -15,30 +16,30 @@ Greater Noida, India
 
 ## 👋 About
 
-**I built blockchain systems. Then I secured them. Now I'm taking that work beyond Web3.**
+**I find the access-control and logic bugs scanners miss: 50+ codebases audited, 20+ vulnerabilities fixed before production, across web apps, APIs and smart contracts.**
 
-I started as a **blockchain developer**, shipping 55+ smart contracts and backend features. Seeing how one missing check can put real money at risk pulled me into security. As a **Blockchain Security Engineer**, I audited smart contracts and backends, threat-modeled authentication and transaction flows, and monitored systems in a SIEM.
+I started as a **blockchain developer**, shipping 55+ smart contracts and backend features. Watching a single missing check put real money at risk pulled me into security. As a **Blockchain Security Engineer**, I audited smart contracts and backends and threat-modeled authentication and transaction flows. As an **Information Security Engineer**, I now apply that to web apps, APIs and SOC monitoring: testing for broken access control, privilege escalation and logic flaws, security-gating 30+ releases and triaging Wazuh SIEM alerts.
 
-The bugs I found there (broken access control, replay attacks, business logic flaws) are the same bugs that break web apps and APIs. So I'm moving into **VAPT, AppSec and SOC**, and this profile documents that work: real audits from my blockchain background, plus hands-on web pentesting and SOC labs.
+Because I've built these systems, I know where they break, and I write fixes developers will merge, not just findings. This profile is the evidence: audit work from production, plus documented web VAPT and SOC labs.
 
-**🎯 Open to:** Security Analyst · Penetration Tester · VAPT · AppSec Engineer · SOC Analyst roles
+**🎯 Open to:** VAPT · Penetration Tester · AppSec Engineer roles (on-site, hybrid or remote)
 
 ---
 
 ## 💼 Experience
 
-- **Information Security Engineer**, Jpan Tubular Limited (Oct 2024 – Oct 2026): secured a blockchain-based product traceability platform, testing its web app, APIs, authentication and smart contracts; found and fixed 20+ issues before release, security-gated 30+ releases and triaged Wazuh SIEM alerts.
+- **Information Security Engineer**, Jpan Tubular Limited (Oct 2024 – Oct 2026): secured a blockchain-based product traceability platform; audited 15+ codebases across its web app, APIs, authentication and smart contracts and found and fixed 20+ issues before release, security-gated 30+ releases and triaged Wazuh SIEM alerts.
 - **Blockchain Security Engineer**, ALBA JOBS (Oct 2023 – Sep 2024): audited 15+ smart contract and backend codebases for reentrancy, access control and insecure external calls; added static analysis and security gates to CI/CD.
-- **Blockchain Developer**, Ajath Infotech (Jan 2023 – Sep 2023): delivered 55+ smart contracts and backend features in Solidity, Rust and Python.
-- **Blockchain Security Analyst (Intern)**, Bitsolabs (Jun 2022 – Nov 2022): vulnerability assessments and secure code review of dApps and backend APIs.
+- **Blockchain Developer**, Ajath Infotech (Jan 2023 – Sep 2023): delivered 55+ smart contracts and backend features in Solidity, Rust and Python; security-reviewed 10+ smart contract and backend codebases.
+- **Blockchain Security Analyst (Intern)**, Bitsolabs (Jun 2022 – Nov 2022): vulnerability assessments mapped to OWASP Top 10 and secure code review of 10+ Solidity and backend codebases.
 
 ---
 
 ## 🎯 Focus Areas
 
-| 🔐 Build & Audit (experience) | 💥 Test & Break (expanding) | 🔍 Detect & Investigate (expanding) |
+| 💥 Test & Break | 🔐 Build & Audit | 🔍 Detect & Investigate |
 |---|---|---|
-| Smart contract audits, secure code review, threat modeling and CI/CD security gates | Web and API VAPT, OWASP Top 10, Burp Suite, and severity-rated reports with remediation | Wazuh SIEM monitoring, alert triage, log analysis and incident reports mapped to MITRE ATT&CK |
+| Web and API VAPT to OWASP Top 10: IDOR, broken access control, business logic and race conditions, with severity-rated reports and remediation (Burp Suite, Nmap) | Smart contract audits, secure code review in Solidity, JavaScript/Node.js, Python and Rust, threat modeling and CI/CD security gates | Wazuh SIEM alert triage, investigation and detections, log analysis and incident reports mapped to MITRE ATT&CK |
 
 ---
 
@@ -46,9 +47,9 @@ The bugs I found there (broken access control, replay attacks, business logic fl
 
 | Project | What it demonstrates |
 |---|---|
-| [**NFT-Marketplace**](https://github.com/adarshkscodes/NFT-Marketplace) | Built an ERC-721 marketplace, then audited it like an attacker: business logic, ownership transfers, reentrancy and signature replay. **95%+ test coverage** with Foundry fuzz and invariant tests. |
 | [**web-application-vapt**](https://github.com/adarshkscodes/web-application-vapt) | Full VAPT workflow against OWASP Juice Shop (an intentionally vulnerable training app): recon, enumeration, exploitation, impact analysis and reporting. **6 validated findings**, including a **Critical** SQL injection authentication bypass and a **High** IDOR, with OWASP mapping, severity ratings and remediation. |
 | [**wazuh-soc-lab**](https://github.com/adarshkscodes/wazuh-soc-lab) | 3-machine SOC lab: Windows 11 endpoint with Sysmon, Ubuntu Wazuh manager and Kali analyst host. Investigated authentication failures, File Integrity Monitoring alerts and process-creation events, mapped them to **MITRE ATT&CK**, and wrote 2 incident reports. |
+| [**NFT-Marketplace**](https://github.com/adarshkscodes/NFT-Marketplace) | Built an ERC-721 marketplace, then audited it like an attacker: business logic, ownership transfers, reentrancy and signature replay. **95%+ test coverage** with Foundry fuzz and invariant tests. |
 | [**productauth-chain**](https://github.com/adarshkscodes/productauth-chain) | Blockchain anti-counterfeit platform: Solidity contracts, a REST backend and cryptographic QR verification, threat-modeled for replay and data-integrity attacks. |
 | [**sentinel-security-console**](https://github.com/adarshkscodes/sentinel-security-console) | Front-end prototype (HTML, CSS, JavaScript) of a dashboard for triaging smart contract audit findings, with severity views, an access-control review and a mock emergency-pause drill. All data is simulated. Live on GitHub Pages. |
 
