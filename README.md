@@ -28,7 +28,7 @@ Because I've built these systems, I know where they break, and I write fixes dev
 
 ## 💼 Experience
 
-- **Information Security Engineer**, Jpan Tubular Limited (Oct 2024 – Oct 2026): secured a blockchain-based product traceability platform; audited 15+ codebases across its web app, APIs, authentication and smart contracts and found and fixed 20+ issues before release, security-gated 30+ releases and triaged Wazuh SIEM alerts.
+- **Information Security Engineer**, Jpan Tubular Limited (Oct 2024 – Jun 2026): secured a blockchain-based product traceability platform; audited 15+ codebases across its web app, APIs, authentication and smart contracts and found and fixed 20+ issues before release, security-gated 30+ releases and triaged Wazuh SIEM alerts.
 - **Blockchain Security Engineer**, ALBA JOBS (Oct 2023 – Sep 2024): audited 15+ smart contract and backend codebases for reentrancy, access control and insecure external calls; added static analysis and security gates to CI/CD.
 - **Blockchain Developer**, Ajath Infotech (Jan 2023 – Sep 2023): delivered 55+ smart contracts and backend features in Solidity, Rust and Python; security-reviewed 10+ smart contract and backend codebases.
 - **Blockchain Security Analyst (Intern)**, Bitsolabs (Jun 2022 – Nov 2022): vulnerability assessments mapped to OWASP Top 10 and secure code review of 10+ Solidity and backend codebases.
